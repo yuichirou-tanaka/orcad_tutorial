@@ -1,0 +1,4 @@
+2022-03-04T15:53:01 ===> "G:/OrCAD/tutorial_design/D0304_USG002/allegro/pstchip.dat"
+2022-03-04T15:53:01 ===> "G:/OrCAD/tutorial_design/D0304_USG002/allegro/pstxnet.dat"
+2022-03-04T15:53:01 ===> "G:/OrCAD/tutorial_design/D0304_USG002/allegro/pstxprt.dat"
+2022-03-04T15:53:01 ===> "G:/OrCAD/tutorial_design/D0304_USG002/allegro/pstdmlmodels.dat"
