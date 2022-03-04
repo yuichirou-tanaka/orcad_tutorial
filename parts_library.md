@@ -10,5 +10,7 @@ Settingsから開く
 - 設定方法
   - https://www.samacsys.com/orcad-allegro-libraries/
 
+- https://community.cadence.com/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-14/7851.pcb_5F00_Editor_5F00_userPref.gif
+
 # link
 - [電子部品検索エンジン](https://componentsearchengine.com/)
