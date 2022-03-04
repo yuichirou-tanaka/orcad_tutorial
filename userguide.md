@@ -15,3 +15,11 @@
 
 ## ネット全体を選択
 ![image](https://user-images.githubusercontent.com/80798265/156706532-a5d834b9-4cc6-4b07-96e5-230c4c503c31.png)
+
+## 便利操作 
+* 重なり合っている部品
+  * Tab キーで切り替え
+
+# 使い方不明
+ p49. IEEE シンボルの配置
+ 
