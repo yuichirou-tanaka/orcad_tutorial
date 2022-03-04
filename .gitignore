@@ -1,0 +1,9 @@
+
+# Created by https://www.toptal.com/developers/gitignore/api/orcad
+# Edit at https://www.toptal.com/developers/gitignore?templates=orcad
+
+### OrCAD ###
+### Cadence Design Systm's OrCAD ###
+*.dat
+
+# End of https://www.toptal.com/developers/gitignore/api/orcad
