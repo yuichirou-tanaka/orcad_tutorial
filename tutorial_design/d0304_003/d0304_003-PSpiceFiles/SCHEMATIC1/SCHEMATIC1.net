@@ -1,0 +1,5 @@
+* source D0304_003
+R_R3         VOUT VIN  1 TC=0,0 
+V_V3         VIN 0  
++PULSE 0 1 10n 10p 10p 10n 20n
+C_C1         0 VOUT  1n  TC=0,0 
