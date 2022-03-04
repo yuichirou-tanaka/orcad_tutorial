@@ -6,5 +6,5 @@
 ### Cadence Design Systm's OrCAD ###
 *.dat
 *.DSNlck
-
+*.OLBlck
 # End of https://www.toptal.com/developers/gitignore/api/orcad
