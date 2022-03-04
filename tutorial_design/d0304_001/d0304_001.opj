@@ -1,8 +1,53 @@
 (ExpressProject "d0304_001"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3960720)  [7/14/2021]-[03/04/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
-    (NoModify))
+    (NoModify)
+    (File ".\d0304_001.dsn"
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
   (Folder "Outputs")
-  (Folder "Referenced Projects"))
+  (Folder "Referenced Projects")
+  (MPSSessionName "S10593")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\d0304_001.dsn")
+      (Path "Design Resources" ".\d0304_001.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\d0304_001.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 867"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 5 1709 24 783")
+        (Scroll "-54 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\ORCAD\TUTORIAL_DESIGN\D0304_001\D0304_001.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (PartMRUSelector
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))

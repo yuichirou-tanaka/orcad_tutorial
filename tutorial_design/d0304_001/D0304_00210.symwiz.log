@@ -1,0 +1,7 @@
+STATUS: PSpice Model Import Wizard for "Capture" (17.4.0.d001)
+STATUS:  
+   INFO: OLB driven flow
+   INFO: Input File: G:\ORCAD\TUTORIAL_DESIGN\D0304_001\D0304_00210.olb
+   INFO: Symbol Name: ZX62R-B-5P_1
+  ERROR: Symbol "ZX62R-B-5P_1" not found in symbol library "G:\ORCAD\TUTORIAL_DESIGN\D0304_001\D0304_00210.olb".
+STATUS: 1 Error messages, 0 Warning messages

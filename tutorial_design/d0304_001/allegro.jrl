@@ -1,0 +1,90 @@
+\t (00:00:01) allegro 17.4 S019 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Fri Mar  4 11:28:19 2022
+\t (00:00:01)         Host=TANAKA-SS-PC User=S10593 Pid=18448 CPUs=8
+\t (00:00:01) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe -mpssession S10593 -proj C:\SPB_Data\cdssetup\OrCAD_Capture\17.4.0\Demos\decoder\decoder\decoder.opj C:\SPB_Data\cdssetup\OrCAD_Capture\17.4.0\Demos\decoder\decoder\allegro\decoder.brd
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Starting new design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged decoder
+\i (00:00:04) trapsize 1218
+\i (00:00:04) trapsize 1270
+\i (00:00:04) trapsize 1218
+\i (00:00:05) trapsize 1292
+\i (00:00:05) trapsize 1292
+\t (00:00:05) > Sending response DoneOpenBoard
+\i (00:00:05) generaledit 
+\i (00:00:08) pick grid 13147.6 8682.7
+\t (00:00:08) last pick:  13100.0 8700.0
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7413.3 6667.9
+\i (00:00:08) trapsize 1292
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7413.3 6667.9
+\i (00:00:08) trapsize 1292
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7413.3 6667.9
+\i (00:00:08) trapsize 1292
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 7413.3 6667.9
+\i (00:00:08) trapsize 1292
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 9712.2 6822.9
+\i (00:00:09) trapsize 646
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 9712.2 6822.9
+\i (00:00:09) trapsize 323
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 9712.2 6822.9
+\i (00:00:09) trapsize 161
+\i (00:00:10) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "Start Page"
+\i (00:00:11) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged decoder
+\i (00:00:12) pick grid 9831.7 7297.5
+\t (00:00:12) last pick:  9800.0 7300.0
+\i (00:00:13) drag_start grid 9395.8 7378.3
+\i (00:00:13) drag_stop 10122.3 6658.2
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 10125.5 6667.9
+\i (00:00:14) trapsize 323
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 10125.5 6667.9
+\i (00:00:14) trapsize 646
+\i (00:00:15) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 12166.1 7132.9
+\i (00:00:51) trapsize 1292
+\i (00:00:51) drag_start grid 11313.7 14391.2
+\i (00:00:51) drag_stop 11778.6 13383.8
+\i (00:00:51) drag_start grid 6741.7 12298.9
+\i (00:00:51) drag_stop 12631.0 5944.7
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 17306.3 8166.1
+\i (00:00:51) trapsize 1292
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 17306.3 8166.1
+\i (00:00:51) trapsize 1292
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 17306.3 8166.1
+\i (00:00:51) trapsize 1292
+\i (00:00:54) pick grid 9453.9 9612.6
+\t (00:00:54) last pick:  9500.0 9600.0
+\i (00:00:57) pick grid 12708.5 14184.5
+\t (00:00:57) last pick:  12700.0 14200.0
+\i (00:01:13) setwindow form.find
+\i (00:01:13) FORM find groups YES 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) exit 
+\e (00:01:15) Do you want to save the changes you made to decoder.brd?
+\i (00:01:16) fillin no 
+\t (00:01:17)     Journal end - Fri Mar  4 11:29:35 2022
