@@ -1,0 +1,33 @@
+\t (00:00:02) allegro 17.4 S019 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Mar  4 16:02:10 2022
+\t (00:00:02)         Host=TANAKA-SS-PC User=S10593 Pid=25432 CPUs=8
+\t (00:00:02) CmdLine= C:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:06) trapsize 116667
+\i (00:00:06) generaledit 
+\i (00:00:31) enved 
+\i (00:00:31) setwindow form.prfedit
+\i (00:00:31) FORM prfedit treelist  My_favorites 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) generaledit 
+\i (00:00:38) setwindow form.prfedit
+\i (00:00:38) FORM prfedit cancel  
+\i (00:00:48) setwindow pcb
+\i (00:00:48) about 
+\i (00:00:59) enved 
+\i (00:00:59) generaledit 
+\i (00:01:02) setwindow form.prfedit
+\i (00:01:02) FORM prfedit treelist  SKILL 
+\i (00:01:03) FORM prfedit treelist  Signal_analysis 
+\i (00:01:04) FORM prfedit treelist  Manufacture 
+\i (00:01:05) FORM prfedit treelist  Misc 
+\i (00:01:06) FORM prfedit treelist  Manufacture 
+\i (00:01:12) FORM prfedit treelist  Paths 
+\i (00:01:14) FORM prfedit treelist  Library Paths 
+\i (00:01:18) FORM prfedit steppath  
+\i (00:05:30) FORM prfedit done  
+\i (00:05:31) setwindow pcb
+\i (00:05:31) exit 
+\t (00:05:32)     Journal end - Fri Mar  4 16:07:39 2022
