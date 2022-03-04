@@ -15,6 +15,4 @@ https://www.nstec.com/how-to-update-orcad-software/#8
 # parts library
 - [パーツライブラリ](parts_library.md)
 
-
-
 #ファイル拡張子
