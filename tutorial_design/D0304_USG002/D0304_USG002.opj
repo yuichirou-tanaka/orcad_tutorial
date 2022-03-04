@@ -13,7 +13,44 @@
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     (Board_sim_option "VHDL_flow")
-    ("Allegro Netlist Output Board File" ".\allegro\d0304_usg002.brd"))
+    ("Allegro Netlist Output Board File" ".\allegro\d0304_usg002.brd")
+    (File "..\library\thg1111c-0005-tr.olb"
+      (Type "Schematic Library"))
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File "G:\ORCAD\TUTORIAL_DESIGN\D0304_USG002\D0304_USG002.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
   (Folder "Layout"
     (File ".\allegro\d0304_usg002.brd"
       (Type "Board File")
@@ -29,7 +66,9 @@
       (DisplayName "pstxprt.dat"))
     (File ".\allegro\pstchip.dat"
       (Type "Report")
-      (DisplayName "pstchip.dat")))
+      (DisplayName "pstchip.dat"))
+    (File ".\d0304_usg002.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -50,6 +89,10 @@
       (Type "Log File")
       (LogFile "G:\OrCAD\tutorial_design\D0304_USG002\allegro\eco.txt")))
   (PartMRUSelector
+    (THG1111C-0005-TR
+      (FullPartName "THG1111C-0005-TR.Normal")
+      (LibraryName "G:\ORCAD\TUTORIAL_DESIGN\LIBRARY\THG1111C-0005-TR.OLB")
+      (DeviceIndex "0"))
     (PORTLEFT-L
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -68,28 +111,35 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "G:\OrCAD\tutorial_design\D0304_USG002\d0304_usg002.dsn")
+         "g:\orcad\tutorial_design\d0304_usg002\d0304_usg002.dsn")
       (Path "Design Resources"
-         "G:\OrCAD\tutorial_design\D0304_USG002\d0304_usg002.dsn" "SCHEMATIC1")
+         "g:\orcad\tutorial_design\d0304_usg002\d0304_usg002.dsn" "SCHEMATIC1")
+      (Path "Design Resources"
+         "g:\orcad\tutorial_design\d0304_usg002\d0304_usg002.dsn" "Design Cache")
+      (Path "Design Resources"
+         "g:\orcad\tutorial_design\library\thg1111c-0005-tr.olb")
       (Path "Layout")
       (Path "Outputs")
+      (Path "PSpice Resources")
       (Path "Logs")
       (Select "Design Resources"
-         "G:\OrCAD\tutorial_design\D0304_USG002\d0304_usg002.dsn" "SCHEMATIC1"
-         "PAGE1"))
-    (HierarchyView)
+         "g:\orcad\tutorial_design\library\thg1111c-0005-tr.olb"
+         "THG1111C-0005-TR"))
+    (HierarchyView
+      (Path "SCHEMATIC1"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 742"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 876"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1393 24 783")
-        (Scroll "0 36")
+        (Placement "44 2 3 -1 -1 -8 -31 5 1393 16 775")
+        (Scroll "0 146")
         (Zoom "200")
         (Occurrence "/"))
       (Path "G:\ORCAD\TUTORIAL_DESIGN\D0304_USG002\D0304_USG002.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "S10593"))
