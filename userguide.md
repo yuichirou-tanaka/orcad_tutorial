@@ -50,6 +50,13 @@ dsnファイルを選択し、ツール > デザインルールチェックを�
 - デザイン・ファイル（.DSN）
 - プロジェクト・ファイル（.OPJ）
 
+# オプション
+## Preferences ダイアログ・ボックス
+
+
+## デザインテンプレート
+![image](https://user-images.githubusercontent.com/80798265/156988062-56e652f5-7d0d-432f-b80a-d7a46f54d942.png)
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
