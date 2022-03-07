@@ -5,3 +5,7 @@
 - Simulation 
 * toolbar Simultaion
 
+# tutorial
+## ページをまたぐ場合
+- http://referencedesigner.com/tutorials/orcad/orcad_07.php
+- 
