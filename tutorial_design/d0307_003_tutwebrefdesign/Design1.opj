@@ -1,8 +1,11 @@
 (ExpressProject "Design1"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3959056)  [7/8/2021]-[03/07/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library")
+    (Folder "Library"
+      (File ".\mylib1.olb"
+        (Type "Schematic Library")))
     (NoModify)
     (File ".\design1.dsn"
       (Type "Schematic Design"))
@@ -43,12 +46,36 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    ("Allegro Netlist Directory" "allegro")
+    ("Allegro Netlist Output Board File" ".\allegro\design1.brd"))
+  (Folder "Layout"
+    (File ".\allegro\design1.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\design1.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\design1.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\MYLIB1.OLB")
+      (DeviceIndex "0"))
     (LED
       (FullPartName "LED.Normal")
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -76,21 +103,69 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Outputs"))
+      (Path "Design Resources"
+         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn")
+      (Path "Design Resources"
+         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\mylib1.olb")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
+         "Design Cache" "GND"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 470"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 209 1227 -5 748")
+        (Placement "44 0 1 -1 -1 5 24 5 1286 24 783")
         (Scroll "90 192")
         (Zoom "200")
         (Occurrence "/"))
       (Path "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
-  (MPSSessionName "S10593"))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 52 1687 52 561"))
+      (Path "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\MYLIB1.OLB")
+      (Package "CON6")
+      (PartType "1")))
+  (MPSSessionName "S10593")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\genfeed.log"))))
