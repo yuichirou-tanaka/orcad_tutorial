@@ -32,6 +32,17 @@ Ctrl+F
 
 dsnファイルを選択し、ツール > デザインルールチェックを選択する。
 
+# Shortcut
+## ウィンドウを切り替え
+- Ctrl + TAB キーを押す
+
+
+# search
+## wild card
+"?" - 1つのワイルドカード  
+"*" - 任意の個数の文字  
+
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
