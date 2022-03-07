@@ -1,0 +1,19 @@
+
+
+
+
+G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\D0307_004\D0307_004-PARTS-Report.csv
+
+
+
+
+
+Total number of: PARTS for: 'U?A' [ in PAGE: , Mode: Inst, MatchCase: No, DESIGN: G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\D0307_004\D0307_004.DSN ] : 1
+
+
+
+
+
+Part Reference,Value,Source Part,Source Library,Page,Page Number,Schematic,Zone,Location X-Coordinate,Location Y-Coordinate
+
+U1A,OP294,OP294,C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB,PAGE1,1,SCHEMATIC1,3C,430,220
