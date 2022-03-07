@@ -46,6 +46,9 @@ dsnファイルを選択し、ツール > デザインルールチェックを�
 サーチして結果が出ているときのみ,LogSessionの下に表示される  
 - ![image](https://user-images.githubusercontent.com/80798265/156979540-83d36900-6743-4e28-aece-a9b6836aafc1.png)
 
+# project
+- デザイン・ファイル（.DSN）
+- プロジェクト・ファイル（.OPJ）
 
 
 # 使い方不明
