@@ -44,7 +44,9 @@
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE"))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\design1.drc"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (LED
@@ -74,27 +76,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
-         "SCHEMATIC1")
-      (Select "Design Resources"
-         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"))
-    (HierarchyView
-      (Path "SCHEMATIC1"))
+      (Path "Outputs"))
+    (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 470"))
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 470"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 209 1227 -5 748")
-        (Scroll "148 152")
+        (Placement "44 2 3 -1 -1 -8 -31 209 1227 -5 748")
+        (Scroll "90 192")
         (Zoom "200")
         (Occurrence "/"))
       (Path "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "S10593"))
