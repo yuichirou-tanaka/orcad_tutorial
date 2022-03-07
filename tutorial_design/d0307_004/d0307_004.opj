@@ -11,6 +11,10 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (LN1851/SM
+      (FullPartName "LN1851/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -32,31 +36,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "g:\orcad\tutorial\tutorial_design\d0307_003_tutwebrefdesign\d0307_004\d0307_004.dsn")
-      (Path "Design Resources"
-         "g:\orcad\tutorial\tutorial_design\d0307_003_tutwebrefdesign\d0307_004\d0307_004.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "g:\orcad\tutorial\tutorial_design\d0307_003_tutwebrefdesign\d0307_004\d0307_004.dsn"
-         "Design Cache")
-      (Select "Design Resources"
-         "g:\orcad\tutorial\tutorial_design\d0307_003_tutwebrefdesign\d0307_004\d0307_004.dsn"
-         "SCHEMATIC1" "PAGE1"))
-    (HierarchyView)
+      (Path "Design Resources" ".\d0307_004.dsn")
+      (Path "Design Resources" ".\d0307_004.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\d0307_004.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView
+      (Path "SCHEMATIC1")
+      (Select "SCHEMATIC1"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 1 160 719 -8 -31 0 200 0 743"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 1 0 719 -8 -31 200 1869 -2 637")
-        (Scroll "-325 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\D0307_004\D0307_004.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+        (Placement "44 0 1 160 719 -8 -31 0 200 0 743"))
+      (Tab 1)))
+  (MPSSessionName "S10593"))

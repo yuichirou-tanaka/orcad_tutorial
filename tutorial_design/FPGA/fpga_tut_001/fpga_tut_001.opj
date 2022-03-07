@@ -1,0 +1,41 @@
+(ExpressProject "fpga_tut_001"
+  (ProjectVersion "19981106")
+  (ProjectType "FPGA")
+  (Vendor "Altera")
+  (Family "MAX9000 Family")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\altera_p.olb"
+        (Type "Schematic Library"))
+      (File
+         "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\altera_m.olb"
+        (Type "Schematic Library"))
+      (File
+         "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\microlib.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\mega.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\pci_a.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\verilog1.v"
+      (Type "Verilog Source"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (DisplayVendor "Altera")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\Cadence\SPB_17.2\tools\capture\Library\FPGA\altera\altera_p.olb")
+      (Select "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\FPGA\fpga_tut_001\verilog1.v"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 335 0 493"))
+      (Tab 0))))

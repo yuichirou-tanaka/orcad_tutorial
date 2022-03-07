@@ -1,0 +1,39 @@
+(ExpressProject "Design2"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\design2.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\PCB\pcbtut001\design2.dsn")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\PCB\pcbtut001\design2.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\PCB\pcbtut001\design2.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 493"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 182 1791 182 714")
+        (Scroll "-295 240")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\PCB\PCBTUT001\DESIGN2.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
