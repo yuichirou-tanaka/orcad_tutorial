@@ -26,6 +26,11 @@
 * プロジェクト内のオブジェクトの検索方法
 Ctrl+F
 
+* DRC
+- ![image](https://user-images.githubusercontent.com/80798265/156957181-f3bef9f0-1d04-418b-b534-94360dbb0cc0.png)
+
+dsnファイルを選択し、ツール > デザインルールチェックを選択する。
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
