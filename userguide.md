@@ -26,5 +26,6 @@ Ctrl+F
 # 使い方不明
 - p49. IEEE シンボルの配置
  
-- p53. property editor 
-- 
+- p.56 property editor ［Globals］タブ
+
+
