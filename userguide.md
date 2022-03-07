@@ -57,6 +57,17 @@ dsnファイルを選択し、ツール > デザインルールチェックを�
 ## デザインテンプレート
 ![image](https://user-images.githubusercontent.com/80798265/156988062-56e652f5-7d0d-432f-b80a-d7a46f54d942.png)
 
+## 編集 > 参照 で複数のタイトルを変更する。
+1. 編集＞参照＞タイトルブロック
+![image](https://user-images.githubusercontent.com/80798265/156990043-fd1119cd-6b0a-4702-8a31-2ceb46bac9e5.png)
+2. Ctrl+E
+![image](https://user-images.githubusercontent.com/80798265/156990112-f2cebde3-d123-4251-8c05-a9d4ad0eb85f.png)
+3. 変更して、OKを押す。
+![image](https://user-images.githubusercontent.com/80798265/156990201-047f349c-ac8d-440a-bce6-28138702ae61.png)
+
+
+
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
