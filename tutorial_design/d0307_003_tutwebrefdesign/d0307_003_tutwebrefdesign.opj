@@ -1,0 +1,40 @@
+(ExpressProject "d0307_003_tutwebrefdesign"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\d0307_003_tutwebrefdesign.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\d0307_003_tutwebrefdesign.dsn")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\d0307_003_tutwebrefdesign.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "G:\OrCAD\tutorial_design\d0307_003_tutwebrefdesign\d0307_003_tutwebrefdesign.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 218 0 743"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 211 1840 0 743")
+        (Scroll "-305 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\D0307_003_TUTWEBREFDESIGN.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
