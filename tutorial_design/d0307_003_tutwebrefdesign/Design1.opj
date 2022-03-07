@@ -5,6 +5,8 @@
   (Folder "Design Resources"
     (Folder "Library"
       (File ".\mylib1.olb"
+        (Type "Schematic Library"))
+      (File "..\library\cdcv304pw.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\design1.dsn"
@@ -71,6 +73,10 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (CDCV304PW
+      (FullPartName "CDCV304PW.Normal")
+      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\CDCV304PW.OLB")
+      (DeviceIndex "0"))
     (CON6
       (FullPartName "CON6.Normal")
       (LibraryName
@@ -103,23 +109,18 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn")
-      (Path "Design Resources"
-         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
-         "Design Cache")
+      (Path "Design Resources" ".\design1.dsn")
+      (Path "Design Resources" ".\design1.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\design1.dsn" "Design Cache")
       (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" ".\mylib1.olb")
       (Path "Design Resources" "Library"
-         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\mylib1.olb")
+         "g:\orcad\tutorial\tutorial_design\library\cdcv304pw.olb")
       (Path "Layout")
       (Path "Outputs")
+      (Path "PSpice Resources")
       (Path "Logs")
-      (Select "Design Resources"
-         "g:\orcad\tutorial_design\d0307_003_tutwebrefdesign\design1.dsn"
-         "Design Cache" "GND"))
+      (Select "Design Resources" ".\design1.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -129,20 +130,14 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1286 24 783")
-        (Scroll "90 192")
-        (Zoom "200")
+        (Placement "44 0 1 -1 -1 -8 -31 52 1430 52 561")
+        (Scroll "-160 0")
+        (Zoom "104")
         (Occurrence "/"))
-      (Path "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\DESIGN1.DSN")
+      (Path
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 52 1687 52 561"))
-      (Path "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\MYLIB1.OLB")
-      (Package "CON6")
-      (PartType "1")))
+      (Page "PAGE1")))
   (MPSSessionName "S10593")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -168,4 +163,5 @@
     (File ".\allegro\genfeed.log"
       (Type "Log File")
       (LogFile
-         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\genfeed.log"))))
+         "G:\ORCAD\TUTORIAL_DESIGN\D0307_003_TUTWEBREFDESIGN\allegro\genfeed.log")))
+  (LastUsedLibraryBrowseDirectory "G:\OrCAD\tutorial\tutorial_design\Library"))
