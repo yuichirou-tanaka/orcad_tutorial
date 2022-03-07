@@ -7,6 +7,7 @@
 
 # tutorial
 ## ページをまたぐ場合
+- 配置 -> オフページコネクタ
 - http://referencedesigner.com/tutorials/orcad/orcad_07.php  
 ![image](https://user-images.githubusercontent.com/80798265/156959441-9dccb6e9-e402-423a-81fb-bfd5da1d231a.png)
 
