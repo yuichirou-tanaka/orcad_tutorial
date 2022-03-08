@@ -106,7 +106,7 @@
       (Path "Design Resources" "Library" ".\library1.olb")
       (Path "Design Resources" "Library" ".\library2.olb")
       (Path "Outputs")
-      (Select "Design Resources" "Library" ".\library1.olb" "Homo1C"))
+      (Select "Design Resources" "Library" ".\library1.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -122,14 +122,7 @@
         (Occurrence "/"))
       (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_USG005_1\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 260 1487 150 765"))
-      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_USG005_1\LIBRARY1.OLB")
-      (Package "HOMO1C")
-      (PartType "1")))
+      (Page "PAGE1")))
   (MPSSessionName "S10593")
   (Folder "Simulation Resources"
     (Folder "Indesign"
