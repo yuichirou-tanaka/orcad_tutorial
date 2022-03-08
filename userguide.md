@@ -115,6 +115,15 @@ dsnファイルを選択し、ツール > デザインルールチェックを�
 - ![image](https://user-images.githubusercontent.com/80798265/157176042-19df4d94-a0ea-4936-8fe7-3d1e289416ec.png)
 - いまいちわからん用語
   https://monoist.itmedia.co.jp/mn/articles/0812/18/news123_2.html
+  
+## ヘテロジニアス
+- 個数が2個以上必要
+- ![image](https://user-images.githubusercontent.com/80798265/157177030-4f2b774f-3cde-40f3-b4a6-38fcc6ff73ee.png)
+
+# パーツ
+## テキスト配置
+T
+
 
 
 # 使い方不明
