@@ -128,9 +128,11 @@ T
 - 一気に複数のピンを配置できる
 - ![image](https://user-images.githubusercontent.com/80798265/157189937-6b554db4-4d42-46f5-895e-3d8b18726502.png)
 
-
 ## エクセルからパーツを作成する方法
 https://www.youtube.com/watch?v=tm1DCIQ5YnI
+pinをエクセルでまとめる。
+![image](https://user-images.githubusercontent.com/80798265/157195175-33aac38a-2922-4e4f-bd70-eda3da4a1ced.png)
+コピペで作成できる。
 
 
 # 使い方不明
