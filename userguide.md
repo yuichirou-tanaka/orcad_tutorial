@@ -134,6 +134,10 @@ pinをエクセルでまとめる。
 ![image](https://user-images.githubusercontent.com/80798265/157195175-33aac38a-2922-4e4f-bd70-eda3da4a1ced.png)
 コピペで作成できる。
 
+## パーツ属性
+![image](https://user-images.githubusercontent.com/80798265/157199465-c799df47-eed3-4a17-a2e4-d7c52e9538f5.png)
+
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
