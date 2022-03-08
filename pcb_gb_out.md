@@ -11,3 +11,4 @@
 # error
 ## Captureで foot printが見つからないエラーについて
 Could not launch footprint, see Capture session log for more details
+- https://www.youtube.com/watch?v=YSLnYwPGOgo
