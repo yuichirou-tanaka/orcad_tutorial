@@ -131,7 +131,11 @@
     (File ".\allegro\eco.txt"
       (Type "Log File")
       (LogFile
-         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro\eco.txt")))
+         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "g:\orcad\tutorial\tutorial_design\d0308_pcb01gbout\allegro\genfeed.log")))
   (PartMRUSelector
     (22-05-3021
       (FullPartName "22-05-3021.Normal")

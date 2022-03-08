@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : d0308_pcb01gbout.brd                          )
 (    Software Version : 17.4S019                                      )
-(    Date/Time        : Tue Mar  8 09:42:26 2022                      )
+(    Date/Time        : Tue Mar  8 09:59:44 2022                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -17,21 +17,21 @@ Ripup retain bondwire:       No
 Ripup symbols:               Always
 Missing symbol has error:    No
 DRC update:                  Yes
-Schematic directory:         'G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro'
-Design Directory:            'g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/pcb'
-Old design name:             'g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd'
-New design name:             'g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd'
+Schematic directory:         'g:\orcad\tutorial\tutorial_design\d0308_pcb01gbout\allegro'
+Design Directory:            'G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb'
+Old design name:             'G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd'
+New design name:             'G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd'
 
-CmdLine: netrev.exe -y 1 -n -i G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd
+CmdLine: netrev.exe -y 1 -n -i g:\orcad\tutorial\tutorial_design\d0308_pcb01gbout\allegro G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd
 
 ------ Preparing to read pst files ------
 
-Starting to read G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstchip.dat 
-   Finished reading G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstchip.dat (00:00:00.02)
-Starting to read G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxprt.dat 
-   Finished reading G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxprt.dat (00:00:00.00)
-Starting to read G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxnet.dat 
-   Finished reading G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxnet.dat (00:00:00.00)
+Starting to read g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstchip.dat 
+   Finished reading g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstchip.dat (00:00:00.01)
+Starting to read g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxprt.dat 
+   Finished reading g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxprt.dat (00:00:00.00)
+Starting to read g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxnet.dat 
+   Finished reading g:/orcad/tutorial/tutorial_design/d0308_pcb01gbout/allegro/pstxnet.dat (00:00:00.00)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -60,7 +60,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Mar 8 9:42:26 2022
+netrev run on Mar 8 9:59:44 2022
    DESIGN NAME : 'D0308_PCB01GBOUT'
    PACKAGING ON Jul  8 2021 06:01:18
 
@@ -85,6 +85,6 @@ netrev run on Mar 8 9:42:26 2022
  No oversight detected
  No warning detected
 
-cpu time      0:01:00
+cpu time      0:00:25
 elapsed time  0:00:00
 
