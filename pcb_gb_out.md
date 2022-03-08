@@ -1,3 +1,6 @@
+# 参考リンク
+- [Starting with OrCAD and Cadence Allegro PCB - Tutorial for Beginners](https://www.youtube.com/watch?v=b8arWWrMGXA)
+
 # orcad 回路から基板、ガーバー出力まで
 ## 作成手順
 1. library loader をインストールする。
@@ -33,3 +36,6 @@ Dir1=C:\Cadence\SPB_17.4\share\local\pcb\symbols\
 ## Outline 追加
 1. Board Geometryを outlineに変更した後に Shapeを追加する。
 ![image](https://user-images.githubusercontent.com/80798265/157147047-b2daaaac-c64b-4812-b31c-593c233ec2d0.png)
+
+
+- https://www.elephantech.co.jp/pickups/gerber-viewers/
