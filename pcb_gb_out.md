@@ -1,6 +1,7 @@
 # 参考リンク
 - [Starting with OrCAD and Cadence Allegro PCB - Tutorial for Beginners](https://www.youtube.com/watch?v=b8arWWrMGXA)
 - [output orcad](https://www.p-ban.com/gerber/orcad.html)
+- [OrCAD 移行ガイドとビデオ](https://resources.orcad.com/migration-guides-and-videos)
 
 # orcad 回路から基板、ガーバー出力まで
 ## 作成手順
