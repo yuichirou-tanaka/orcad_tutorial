@@ -71,13 +71,13 @@ dsnファイルを選択し、ツール > デザインルールチェックを�
 ![image](https://user-images.githubusercontent.com/80798265/156990201-047f349c-ac8d-440a-bce6-28138702ae61.png)
 
 # 階層ブロック
-1. 一部切り取りして、ブロックを配置する。
+1. 一部切り取りして、ブロックを配置する。  
 ![image](https://user-images.githubusercontent.com/80798265/157155924-7f3a9eda-0816-4df8-a205-a42743cab772.png)
 
 2. 階層ピンを設置する。
 -   配置　> 階層ピン
 3. ダブルクリックでページを作成する。
-- ピンを繋げたらダブルクリックして、ページを作成する。
+- ピンを繋げたらダブルクリックして、ページを作成する。  
 ![image](https://user-images.githubusercontent.com/80798265/157156305-cbb40acf-c013-4f16-84dc-2e39d382460d.png)
 
 
