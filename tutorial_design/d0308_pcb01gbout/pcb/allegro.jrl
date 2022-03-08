@@ -1646,4 +1646,103 @@
 \i (00:22:38) pick grid 13692.75 4474.87
 \t (00:22:38) last pick:  13700.00 4500.00
 \t (00:22:38) Pick the edit starting point on the shape boundary.
-\i (00:22:38) pick gr
+\i (00:22:38) pick grid 13717.89 4504.20
+\t (00:22:38) last pick:  13700.00 4500.00
+\t (00:22:38) Pick the next vertex or the closing point on the shape.
+\i (00:22:43) prepopup 13822.63 4893.86
+\i (00:22:45) cancel 
+\i (00:22:45) setwindow form.mini
+\i (00:22:45) FORM mini tree  'Package symbols' 
+\i (00:22:45) setwindow pcb
+\i (00:22:45) placementedit 
+\i (00:22:46) save 
+\i (00:22:48) fillin yes 
+\t (00:22:48) > Sending response DoneOpenBoard
+\i (00:22:48) placementedit 
+\i (00:22:51) 3d 
+\i (00:22:53) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:22:54) placementedit 
+\i (00:22:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 566 397 886 544 1 1 0 +
+\i (00:22:54) QtSignal "13228.9" "3667.65" "-422.67"
+\i (00:22:55) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 564 431 884 578 1 0 +
+\i (00:22:55) QtSignal 0 13263 "3624.4" "-517.456"
+\i (00:22:59) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:23:04) pick grid 13617.33 3255.59
+\t (00:23:04) last pick:  13600.00 3300.00
+\i (00:23:04) pick grid 13579.62 3301.68
+\t (00:23:04) last pick:  13600.00 3300.00
+\i (00:23:05) pick grid 13592.19 3377.10
+\t (00:23:05) last pick:  13600.00 3400.00
+\i (00:23:05) drag_start grid 13843.58 3301.68
+\i (00:23:05) drag_stop 13365.93 2270.96
+\i (00:23:06) pick grid 13516.77 2614.53
+\t (00:23:06) last pick:  13500.00 2600.00
+\i (00:23:06) pick grid 13550.29 2597.77
+\t (00:23:06) last pick:  13600.00 2600.00
+\i (00:23:06) prepopup 13550.29 2597.77
+\i (00:23:08) pick grid 13562.86 2731.85
+\t (00:23:08) last pick:  13600.00 2700.00
+\i (00:23:10) shape edit boundary 
+\i (00:23:11) shape select 
+\i (00:23:13) shape select 
+\i (00:23:14) pick grid 13608.95 3804.47
+\t (00:23:14) last pick:  13600.00 3800.00
+\i (00:24:24) pick grid 14396.66 2346.37
+\t (00:24:24) last pick:  14400.00 2300.00
+\w (00:24:24) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:24:26) drag_start grid 14065.65 4269.56
+\i (00:24:26) drag_stop grid 13730.46 4546.10
+\i (00:24:26) pick grid 13730.46 4462.30
+\t (00:24:26) last pick:  13700.00 4500.00
+\w (00:24:26) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:24:27) pick grid 13738.83 4504.20
+\t (00:24:27) last pick:  13700.00 4500.00
+\w (00:24:27) WARNING(SPMHGE-604): No editable vertex was found.
+\i (00:24:27) prepopup 13839.39 3871.51
+\i (00:24:28) done 
+\i (00:24:28) setwindow form.mini
+\i (00:24:28) FORM mini tree  'Package symbols' 
+\i (00:24:28) setwindow pcb
+\i (00:24:28) placementedit 
+\i (00:24:29) pick grid 13730.46 4412.02
+\t (00:24:29) last pick:  13700.00 4400.00
+\i (00:25:07) pick grid 13139.67 3829.61
+\t (00:25:07) last pick:  13100.00 3800.00
+\i (00:25:08) pick grid 13143.86 3846.37
+\t (00:25:08) last pick:  13100.00 3800.00
+\i (00:25:08) pick grid 13160.62 3846.37
+\t (00:25:08) last pick:  13200.00 3800.00
+\i (00:25:09) prepopup 13160.62 3846.37
+\i (00:25:17) artwork 
+\i (00:25:19) setwindow form.film_control
+\i (00:25:19) FORM film_control filmtree  TOP 
+\i (00:25:20) FORM film_control filmtree 'MULTISEL YES' TOP 
+\i (00:25:20) FORM film_control filmtree  BOTTOM 
+\i (00:25:20) FORM film_control filmtree 'MULTISEL YES' BOTTOM 
+\i (00:25:23) FORM film_control ok  
+\i (00:25:23) setwindow pcb
+\i (00:25:23) placementedit 
+\i (00:26:12) pick grid 10483.25 4244.42
+\t (00:26:12) last pick:  10500.00 4200.00
+\i (00:26:17) artwork 
+\i (00:26:19) setwindow form.film_control
+\i (00:26:19) FORM film_control select_all  
+\i (00:26:21) FORM film_control general_parameters  
+\i (00:26:30) FORM film_control film_control  
+\i (00:26:34) FORM film_control create  
+\t (00:26:34) Checking db records
+\t (00:26:34)     checking for orphans...
+\t (00:26:34)     Checked 100 percent
+\t (00:26:34) Done dbdoctor.
+\t (00:26:34) Starting Create artwork films...
+\t (00:26:36) Plot generated.
+\i (00:26:38) FORM film_control ok  
+\i (00:26:39) setwindow pcb
+\i (00:26:39) placementedit 
+\i (00:47:28) pick grid 10776.54 2425.98
+\t (00:47:28) last pick:  10800.00 2400.00
+\i (00:47:30) exit 
+\e (00:47:30) Do you want to save the changes you made to G:/OrCAD/tutorial/tutorial_design/d0308_pcb01gbout/pcb/d0308_pcb01gbout.brd?
+\i (00:47:31) fillin yes 
+   (00:47:31) Loading signal.cxt 
+\t (00:47:32)     Journal end - Tue Mar  8 10:47:17 2022

@@ -170,21 +170,10 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\d0308_pcb01gbout.dsn")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "G:\OrCAD\tutorial\tutorial_design\library\ssl-lx20r6srd.olb")
-      (Path "Design Resources" "Library"
-         "G:\OrCAD\tutorial\tutorial_design\library\lr1f1k0.olb")
-      (Path "Design Resources" "Library"
-         "G:\OrCAD\tutorial\tutorial_design\library\22-05-3021.olb")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\d0308_pcb01gbout.dsn"
-         "SCHEMATIC1" "PAGE1"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -195,7 +184,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1286 24 662")
-        (Scroll "146 416")
+        (Scroll "90 328")
         (Zoom "200")
         (Occurrence "/"))
       (Path
