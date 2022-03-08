@@ -129,6 +129,9 @@ T
 - ![image](https://user-images.githubusercontent.com/80798265/157189937-6b554db4-4d42-46f5-895e-3d8b18726502.png)
 
 
+## エクセルからパーツを作成する方法
+https://www.youtube.com/watch?v=tm1DCIQ5YnI
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
