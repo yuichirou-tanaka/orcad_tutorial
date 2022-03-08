@@ -9,7 +9,7 @@
 
 
 ### 選択フィルター
-右クリック or Ctrl+I
+右クリック or Ctrl+I  
 ![image](https://user-images.githubusercontent.com/80798265/156706029-6e21c57a-2976-4ceb-b994-441b43e3783e.png)
 
 
