@@ -34,7 +34,7 @@ Dir1=C:\Cadence\SPB_17.4\share\local\pcb\symbols\
 4. 
 
 ## Outline 追加
-1. Board Geometryを outlineに変更した後に Shapeを追加する。
+1. Board Geometryを outlineに変更した後に Shapeを追加する。  
 ![image](https://user-images.githubusercontent.com/80798265/157147047-b2daaaac-c64b-4812-b31c-593c233ec2d0.png)
 
 
