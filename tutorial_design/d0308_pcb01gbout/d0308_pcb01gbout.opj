@@ -74,11 +74,42 @@
     (DRC_Run_Custom_Rules "FALSE")
     (DRC_Report_File
        "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_PCB01GBOUT\D0308_PCB01GBOUT.DRC")
-    (Board_sim_option "VHDL_flow"))
-  (Folder "Layout")
+    (Board_sim_option "VHDL_flow")
+    ("Allegro Netlist Output Board File" ".\pcb\d0308_pcb01gbout.brd")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout"
+    (File ".\pcb\d0308_pcb01gbout.brd"
+      (Type "Board File")
+      (OutputBoard ".\pcb\d0308_pcb01gbout.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
   (Folder "Outputs"
     (File ".\d0308_pcb01gbout.drc"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -88,7 +119,19 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\allegro\eco.txt")))
   (PartMRUSelector
     (22-05-3021
       (FullPartName "22-05-3021.Normal")
@@ -132,9 +175,12 @@
          "G:\OrCAD\tutorial\tutorial_design\library\lr1f1k0.olb")
       (Path "Design Resources" "Library"
          "G:\OrCAD\tutorial\tutorial_design\library\22-05-3021.olb")
+      (Path "Layout")
       (Path "Outputs")
+      (Path "Logs")
       (Select "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\d0308_pcb01gbout.dsn"))
+         "G:\OrCAD\tutorial\tutorial_design\d0308_pcb01gbout\d0308_pcb01gbout.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -145,7 +191,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1286 24 662")
-        (Scroll "342 318")
+        (Scroll "146 416")
         (Zoom "200")
         (Occurrence "/"))
       (Path
