@@ -1,0 +1,23 @@
+Date and Time : 03/08/22 16:26:51
+
+--------------------------------------------------
+Checking Schematic:  SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1831): ñ¢ê⁄ë±ÉsÉìÇ≈Ç∑ VHDL1,PIN2 
+                    SCHEMATIC1, PAGE2  (7.00, 4.90) 
+WARNING(ORCAP-1831): ñ¢ê⁄ë±ÉsÉìÇ≈Ç∑ Veri1,PIN4 
+                    SCHEMATIC1, PAGE2  (10.00, 3.60) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Kaisou KairoFolderN
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
