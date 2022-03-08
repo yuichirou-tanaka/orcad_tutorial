@@ -19,3 +19,11 @@ Could not launch footprint, see Capture session log for more details
 [Allegro Footprints]
 Dir1=C:\Cadence\SPB_17.4\share\local\pcb\symbols\
 ```
+
+# footprintの配置
+1. Place > Component Manuallyを選択する  
+![image](https://user-images.githubusercontent.com/80798265/157145740-e63e7758-0793-40b8-8deb-5dce37f015e9.png)
+2. 全部チェックする  
+![image](https://user-images.githubusercontent.com/80798265/157145828-4fa3c937-1a98-4491-a1f3-f48cdb92ec1c.png)
+3. クリックで一つずつ配置する。
+4. 
