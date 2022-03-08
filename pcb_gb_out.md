@@ -12,3 +12,8 @@
 ## Captureで foot printが見つからないエラーについて
 Could not launch footprint, see Capture session log for more details
 - https://www.youtube.com/watch?v=YSLnYwPGOgo
+
+### 解決策  capture.iniにパスを追加する
+- C:\SPB_Data\cdssetup\OrCAD_Capture\17.4.0\capture.ini
+ [Allegro Footprints]
+Dir1=C:\Cadence\SPB_17.4\share\local\pcb\symbols\
