@@ -13,21 +13,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0309_wire\design2.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 0 200 0 576"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 361 1944 105 720")
-        (Scroll "-7 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\DESIGN2.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Tab 0)))
+  (MPSSessionName "S10593")
+  (PartMRUSelector))

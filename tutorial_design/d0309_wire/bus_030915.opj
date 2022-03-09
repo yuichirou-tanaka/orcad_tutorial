@@ -1,10 +1,10 @@
-(ExpressProject "Design2"
+(ExpressProject "Design3"
   (ProjectVersion "19981106")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
     (NoModify)
-    (File ".\test_d0309_biss.dsn"
+    (File ".\bus_030915.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -16,7 +16,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\TEST_D0309_BISS.DRC")
+       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\BUS_030915.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -45,70 +45,61 @@
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE"))
   (Folder "Outputs"
-    (File ".\test_d0309_biss.drc"
+    (File ".\bus_030915.drc"
       (Type "Report")))
   (Folder "Referenced Projects")
-  (GlobalState
-    (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" ".\test_d0309_biss.dsn")
-      (Path "Design Resources" ".\test_d0309_biss.dsn" "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources" ".\test_d0309_biss.dsn"))
-    (HierarchyView)
-    (Doc
-      (Type "COrCapturePMDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 576"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 212 1795 5 877")
-        (Scroll "41 0")
-        (Zoom "162")
-        (Occurrence "/"))
-      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\TEST_D0309_BISS.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
   (PartMRUSelector
-    (GND
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (THG1111C-0005-TR
-      (FullPartName "THG1111C-0005-TR.Normal")
-      (LibraryName
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\THG1111C-0005-TR.OLB")
-      (DeviceIndex "0"))
-    (LR1F1K0
-      (FullPartName "LR1F1K0.Normal")
-      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\LR1F1K0.OLB")
-      (DeviceIndex "0"))
-    (ST486DX/PGA
-      (FullPartName "ST486DX/PGA.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MICROPROCESSOR.OLB")
-      (DeviceIndex "0"))
-    (ST6210B/SO
-      (FullPartName "ST6210B/SO.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
-      (DeviceIndex "0"))
     (74HC595
       (FullPartName "74HC595.Normal")
       (LibraryName
          "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\SHIFTREGISTER.OLB")
       (DeviceIndex "0"))
-    (74HC165
-      (FullPartName "74HC165.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\SHIFTREGISTER.OLB")
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (10165
-      (FullPartName "10165.Normal")
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\ARITHMETIC.OLB")
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LR1F1K0
+      (FullPartName "LR1F1K0.Normal")
+      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\LR1F1K0.OLB")
+      (DeviceIndex "0"))
+    (THG1111C-0005-TR
+      (FullPartName "THG1111C-0005-TR.Normal")
+      (LibraryName
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\THG1111C-0005-TR.OLB")
       (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bus_030915.dsn")
+      (Path "Design Resources" ".\bus_030915.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\bus_030915.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 396"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 203 1513 3 617")
+        (Scroll "246 52")
+        (Zoom "172")
+        (Occurrence "/"))
+      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\BUS_030915.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
