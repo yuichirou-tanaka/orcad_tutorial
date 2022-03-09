@@ -161,6 +161,11 @@ pinをエクセルでまとめる。
 - インスタンス属性
 - オカレンス属性
 
+## エクスポート
+- 回路図を選択して、ツール > 属性をエクスポート  
+![image](https://user-images.githubusercontent.com/80798265/157372492-7f432e0f-44b1-4dcd-a2db-0edd50fd0139.png)
+
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
