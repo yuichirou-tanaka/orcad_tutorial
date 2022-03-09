@@ -210,6 +210,13 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 # オフページ・コネクタ
 - 回路図ページ同士の接続
 
+# ツール
+## 飛び先表示
+- ページの番号が同じ場合に発生する
+  - 再度アノテートする  
+- ![image](https://user-images.githubusercontent.com/80798265/157403790-22db0bac-68d5-43a3-93a5-84d838ef5686.png)
+
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
