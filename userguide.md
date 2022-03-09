@@ -183,7 +183,9 @@ pinをエクセルでまとめる。
 1. 最後に右クリックで接続をする  
 ![image](https://user-images.githubusercontent.com/80798265/157380591-b0b4a95a-f9c6-4f3e-b4b3-91a7a5df99b5.png)
 
-
+# バス
+- 通常は90度単位の角度
+  - shift押しながらで斜め配線できる
 
 # 使い方不明
 - p49. IEEE シンボルの配置
