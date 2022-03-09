@@ -1,5 +1,6 @@
 (ExpressProject "d0309_parts"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3959056)  [7/8/2021]-[03/09/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library"
@@ -14,6 +15,10 @@
       (File "..\library\thg1111c-0005-tr.olb"
         (Type "Schematic Library"))
       (File "..\library\22-05-3021.olb"
+        (Type "Schematic Library"))
+      (File ".\testlib.olb"
+        (Type "Schematic Library"))
+      (File ".\mypsmdlparts.olb"
         (Type "Schematic Library")))
     (NoModify)
     (File ".\d0309_parts.dsn"
@@ -22,11 +27,12 @@
     (CompileFileAddedOrDeleted "x")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "0")
+    (ANNOTATE_Action "1")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
-    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_Property_Combine
+       "{Value}{Source Package}{POWER GROUP}{COMPGROUP}")
     (ANNOTATE_IncludeNonPrimitive "FALSE")
     (ANNOTATE_PreserveDesignator "FALSE")
     (ANNOTATE_PreserveUserEdits "FALSE")
@@ -77,12 +83,50 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\D0309_PARTS.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\d0309_parts.drc"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (22-053021-bun2
+      (FullPartName "22-053021-bun2-2.Normal")
+      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PARTS\TESTLIB.OLB")
+      (DeviceIndex "1"))
+    (Part1
+      (FullPartName "Part1.Normal")
+      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PARTS\TESTLIB.OLB")
+      (DeviceIndex "3"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (NAN2
+      (FullPartName "NAN2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIG_PRIM.OLB")
+      (DeviceIndex "0"))
     (THG1111C-0005-TR
       (FullPartName "THG1111C-0005-TR.Normal")
       (LibraryName
@@ -109,25 +153,44 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\d0309_parts.dsn")
-      (Path "Design Resources" ".\d0309_parts.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\d0309_parts.dsn" "Design Cache")
+      (Path "Design Resources"
+         "g:\orcad\tutorial\tutorial_design\d0309_parts\d0309_parts.dsn")
+      (Path "Design Resources"
+         "g:\orcad\tutorial\tutorial_design\d0309_parts\d0309_parts.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "g:\orcad\tutorial\tutorial_design\d0309_parts\d0309_parts.dsn" "NAND")
+      (Path "Design Resources"
+         "g:\orcad\tutorial\tutorial_design\d0309_parts\d0309_parts.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial\tutorial_design\library\22-05-3021_test.olb")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial\tutorial_design\library\cdcv304pw.olb")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial\tutorial_design\library\lr1f1k0.olb")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial\tutorial_design\library\thg1111c-0005-tr.olb")
+      (Path "Design Resources" "Library"
+         "g:\orcad\tutorial\tutorial_design\library\22-05-3021.olb")
+      (Path "Design Resources" "Library" ".\testlib.olb")
       (Path "Outputs")
-      (Select "Design Resources" ".\d0309_parts.dsn"))
+      (Select "Design Resources"
+         "g:\orcad\tutorial\tutorial_design\d0309_parts\d0309_parts.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 0 877 -8 -31 0 286 0 630"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 283 1635 0 535")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PARTS\D0309_PARTS.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 874"))
+      (Tab 0)))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (ISPCBBASICLICENSE "false"))

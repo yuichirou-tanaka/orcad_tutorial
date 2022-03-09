@@ -1,0 +1,4 @@
+{ Using PSTWRITER 17.2.0 d001Mar-09-2022 at 11:56:53 }
+
+#1 ERROR(ORCAP-36023): Clock10Ms: SCHEMATIC1、PAGE1 (8.95, 0.70)のパッケージを検出できません。
+#2 ERROR(ORCAP-36018): ネットリスト作成を中断中 ... 上記のエラーを訂正してから再実行してください。

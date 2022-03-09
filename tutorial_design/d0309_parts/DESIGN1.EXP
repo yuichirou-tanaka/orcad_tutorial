@@ -1,0 +1,5 @@
+"DESIGN"	"G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PARTS\DESIGN1.DSN"
+"HEADER"	"ID"	"Part Reference"	"Value"	"Graphic"	"Location X-Coordinate"	"Location Y-Coordinate"	"PCB Footprint"	"Power Pins Visible"	"Source Library"	"Source Package"	"Source Part"	"Zokusei"
+"PARTINST:SCHEMATIC1:PAGE1:151"	"J1"	"J1"	"HEADER 2"	"HEADER 2.Normal"	"265"	"65"	""	"False"	"C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB"	"HEADER 2"	"HEADER 2.Normal"	"1"
+"PARTINST:SCHEMATIC1:PAGE1:406"	"J2"	"J2"	"4 HEADER"	"4 HEADER.Normal"	"555"	"65"	""	"False"	"C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB"	"4 HEADER"	"4 HEADER.Normal"	"<null>"
+"PARTINST:SCHEMATIC1:PAGE1:431"	"J3"	"J3"	"BNC"	"BNC.Normal"	"380"	"265"	""	"False"	"C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB"	"BNC"	"BNC.Normal"	"<null>"
