@@ -167,6 +167,8 @@ pinをエクセルでまとめる。
 - 回路図を選択して、ツール > 属性をエクスポート  
 ![image](https://user-images.githubusercontent.com/80798265/157372492-7f432e0f-44b1-4dcd-a2db-0edd50fd0139.png)
 
+# プロジェクト
+## アーカイブ
 
 
 # 使い方不明
