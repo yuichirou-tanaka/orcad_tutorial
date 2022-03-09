@@ -192,10 +192,11 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 ## error drc
 バスに名前がないため、信号が定義されていません。 
- 
+
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
 - p.56 property editor ［Port］タブ
 - p.237 パーツの生成
-- p.289 バスの自動配線
+- p.296 ワイヤとバスのラベル付け301
