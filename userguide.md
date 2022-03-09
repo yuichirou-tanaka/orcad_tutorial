@@ -207,6 +207,9 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 # グランドGND(G)
 
+# オフページ・コネクタ
+- 回路図ページ同士の接続
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
