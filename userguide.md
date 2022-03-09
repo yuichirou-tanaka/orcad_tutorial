@@ -150,6 +150,10 @@ pinをエクセルでまとめる。
 ## キャッシュ更新
 パーツを変更したら design cacheの該当のパーツのキャッシュを更新する。
 
+## ライブラリ・パーツの生成
+ツール>パーツの生成  
+![image](https://user-images.githubusercontent.com/80798265/157359283-f1370a2a-46e2-45b9-9e55-fe1ca543f80d.png)
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
