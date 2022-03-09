@@ -144,3 +144,4 @@ pinをエクセルでまとめる。
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
 - p.56 property editor ［Port］タブ
+- p.229 ［Annotate］ダイアログ・ボックスの＜連結属性文字列＞テキスト・ボックスに {COMPGROUP} と入力します。
