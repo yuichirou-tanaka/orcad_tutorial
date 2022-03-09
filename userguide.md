@@ -190,3 +190,4 @@ pinをエクセルでまとめる。
 - p.56 property editor ［Globals］タブ
 - p.56 property editor ［Port］タブ
 - p.237 パーツの生成
+- p.289 バスの自動配線
