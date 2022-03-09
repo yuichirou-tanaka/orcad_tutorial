@@ -140,7 +140,7 @@ pinをエクセルでまとめる。
 ## アノテート
 - パーツ・リファレンス番号の割り当て
 ### Phisical Packaging Combined Property string
-- ［Annotate］ダイアログ・ボックスの＜連結属性文字列＞テキスト・ボックスに {COMPGROUP} と入力します。
+- p.229［Annotate］ダイアログ・ボックスの＜連結属性文字列＞テキスト・ボックスに {COMPGROUP} と入力します。
 - うまく動かない
 
 
