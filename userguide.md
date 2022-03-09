@@ -147,6 +147,8 @@ pinをエクセルでまとめる。
 - パーツを開いている状態で 表示→パッケージ  
 ![image](https://user-images.githubusercontent.com/80798265/157358413-35b4132e-3ae0-444e-8eb1-6b1ce12db933.png)
 
+## キャッシュ更新
+パーツを変更したら design cacheの該当のパーツのキャッシュを更新する。
 
 # 使い方不明
 - p49. IEEE シンボルの配置
