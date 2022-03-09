@@ -203,9 +203,14 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - 接続していないピンは×を付ける
 - 属性メニューのIs No Connect のチェックを入れることでも未接続にできる
 
+# 電源(F)
+
+# グランドGND(G)
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
 - p.56 property editor ［Port］タブ
 - p.237 パーツの生成
 - p.296 ワイヤとバスのラベル付け301
+- p.308 パワー・ピン
