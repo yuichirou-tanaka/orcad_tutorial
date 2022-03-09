@@ -215,6 +215,7 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - ページの番号が同じ場合に発生する
   - 再度アノテートする  
 - ![image](https://user-images.githubusercontent.com/80798265/157403790-22db0bac-68d5-43a3-93a5-84d838ef5686.png)
+- 削除したい場合は再度アノテートで＜飛び先表示を削除する＞を選択して［OK］
 
 
 # 使い方不明
