@@ -186,6 +186,9 @@ pinをエクセルでまとめる。
 # バス
 - 通常は90度単位の角度
   - shift押しながらで斜め配線できる
+## 命名
+## link
+https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 # 使い方不明
 - p49. IEEE シンボルの配置
