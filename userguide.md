@@ -154,6 +154,9 @@ pinをエクセルでまとめる。
 ツール>パーツの生成  
 ![image](https://user-images.githubusercontent.com/80798265/157359283-f1370a2a-46e2-45b9-9e55-fe1ca543f80d.png)
 
+## パーツ分割
+ピンを分けて分割できる。
+
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
