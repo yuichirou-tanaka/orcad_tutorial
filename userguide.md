@@ -190,6 +190,9 @@ pinをエクセルでまとめる。
 ## link
 https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
+## error drc
+バスに名前がないため、信号が定義されていません。 
+ 
 # 使い方不明
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
