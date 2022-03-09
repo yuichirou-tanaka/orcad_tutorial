@@ -1,0 +1,5 @@
+"DESIGN"	"G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PARTS\DESIGN1.DSN"
+"HEADER"	"ID"	"Part Reference"	"Value"	"Location X-Coordinate"	"Location Y-Coordinate"	"PCB Footprint"	"Zokusei"
+"PARTOCC:25"	"25"	"J1"	"HEADER 2"	"265"	"65"	""	"1"
+"PARTOCC:28"	"28"	"J2"	"4 HEADER"	"555"	"65"	""	"<null>"
+"PARTOCC:33"	"33"	"J3"	"BNC"	"380"	"265"	""	"<null>"
