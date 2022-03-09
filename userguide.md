@@ -174,6 +174,16 @@ pinをエクセルでまとめる。
 ## ロック、右クリックから 固定する を選択する。または編集 > 固定する
 ##　固定解除
 
+# ワイヤ
+## 自動配線
+![image](https://user-images.githubusercontent.com/80798265/157380310-8a8ce67e-4852-4ab1-8a42-144e115e5e9b.png)
+### 2点
+1. クリックして2点の間を自動的に配置してくれる
+### 複数
+1. 最後に右クリックで接続をする  
+![image](https://user-images.githubusercontent.com/80798265/157380591-b0b4a95a-f9c6-4f3e-b4b3-91a7a5df99b5.png)
+
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
