@@ -158,3 +158,4 @@ pinをエクセルでまとめる。
 - p49. IEEE シンボルの配置
 - p.56 property editor ［Globals］タブ
 - p.56 property editor ［Port］タブ
+- p.237 パーツの生成
