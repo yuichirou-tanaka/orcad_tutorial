@@ -143,6 +143,10 @@ pinをエクセルでまとめる。
 - p.229［Annotate］ダイアログ・ボックスの＜連結属性文字列＞テキスト・ボックスに {COMPGROUP} と入力します。
 - うまく動かない
 
+## パッケージ
+- パーツを開いている状態で 表示→パッケージ  
+![image](https://user-images.githubusercontent.com/80798265/157358413-35b4132e-3ae0-444e-8eb1-6b1ce12db933.png)
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
