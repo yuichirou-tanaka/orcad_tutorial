@@ -70,6 +70,11 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (F2T
+      (FullPartName "F2T.Normal")
+      (LibraryName
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_USG005_1\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (UHetelo3
       (FullPartName "UHetelo3C.Normal")
       (LibraryName
@@ -106,7 +111,7 @@
       (Path "Design Resources" "Library" ".\library1.olb")
       (Path "Design Resources" "Library" ".\library2.olb")
       (Path "Outputs")
-      (Select "Design Resources" "Library" ".\library1.olb"))
+      (Select "Design Resources" "Library" ".\library1.olb" "F2T"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -116,13 +121,20 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 212 1847 -4 743")
-        (Scroll "-33 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 -1 -1 212 1811 -4 896")
+        (Scroll "2256 1444")
+        (Zoom "400")
         (Occurrence "/"))
       (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_USG005_1\DESIGN1.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 220 1447 81 696"))
+      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0308_USG005_1\LIBRARY1.OLB")
+      (Package "F2T")
+      (PartType "1")))
   (MPSSessionName "S10593")
   (Folder "Simulation Resources"
     (Folder "Indesign"
