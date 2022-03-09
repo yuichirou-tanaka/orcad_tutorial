@@ -196,6 +196,8 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 ## ワイヤ属性の編集
 ![image](https://user-images.githubusercontent.com/80798265/157392002-bd9387c8-efcc-42f2-8eea-c2429dd03066.png)
 
+## ワイヤの色
+- ネット属性が真の値、ワイヤ属性の色は見た目だけで表示を優先する。
 
 
 # 使い方不明
