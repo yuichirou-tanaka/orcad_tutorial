@@ -1,0 +1,23 @@
+Date and Time : 03/09/22 17:17:06
+
+--------------------------------------------------
+Checking Schematic: kai
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります Power  Passive Port Connected to Passive Port
+                    kai, Kaisou1  (2.65, 1.05) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります Net  Passive Port Connected to Passive Port
+                    kai, Kaisou1  (2.65, 1.40) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

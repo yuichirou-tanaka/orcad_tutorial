@@ -1,12 +1,11 @@
-(ExpressProject "Design3"
+(ExpressProject "d0309_port"
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3959056)  [7/8/2021]-[03/09/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
-    (Folder "Library"
-      (File "..\library\powerpin.olb"
-        (Type "Schematic Library")))
+    (Folder "Library")
     (NoModify)
-    (File ".\bus_030915.dsn"
+    (File ".\d0309_port.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -18,7 +17,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_WIRE\BUS_030915.DRC")
+       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PORT\D0309_PORT.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -45,60 +44,61 @@
     (DRC_Visible_Power_pins "FALSE")
     (DRC_Report_Unused_Part_Packages "TRUE")
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
-    (DRC_Run_Physical_Custom_DRC "FALSE"))
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
   (Folder "Outputs"
-    (File ".\bus_030915.drc"
+    (File ".\d0309_port.drc"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
-    (NewPowerPin
-      (FullPartName "NewPowerPin.Normal")
-      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\POWERPIN.OLB")
-      (DeviceIndex "0"))
-    (74HC595
-      (FullPartName "74HC595.Normal")
-      (LibraryName
-         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\SHIFTREGISTER.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
+    (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (OFFPAGELEFT-R
+    (PORTNO-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
-    (CON2
-      (FullPartName "CON2.Normal")
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
     (GND
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (LR1F1K0
-      (FullPartName "LR1F1K0.Normal")
-      (LibraryName "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\LR1F1K0.OLB")
-      (DeviceIndex "0"))
-    (THG1111C-0005-TR
-      (FullPartName "THG1111C-0005-TR.Normal")
-      (LibraryName
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\LIBRARY\THG1111C-0005-TR.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\bus_030915.dsn")
-      (Path "Design Resources" ".\bus_030915.dsn" "SCHEMATIC1")
-      (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" "..\library\powerpin.olb")
-      (Path "Outputs")
-      (Select "Design Resources" "Library" "..\library\powerpin.olb"
-         "NewPowerPin"))
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn" "kai")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 396"))
-      (Tab 0)))
-  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 649"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 202 1513 0 641")
+        (Scroll "236 98")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PORT\D0309_PORT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "S10593"))
