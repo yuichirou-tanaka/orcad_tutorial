@@ -1,0 +1,14 @@
+Date and Time : 03/09/22 15:56:52
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です VCC 
+                    SCHEMATIC1, PAGE1  (3.40, 0.55) 
+
+Checking For Unconnected Bus Nets
+ERROR(ORCAP-1592): バスに名前がないため、信号が定義されていません。 N00266 
+                    SCHEMATIC1, PAGE1  (5.60, 3.45) 
