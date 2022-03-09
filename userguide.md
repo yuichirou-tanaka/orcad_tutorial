@@ -193,6 +193,10 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 ## error drc
 バスに名前がないため、信号が定義されていません。 
 
+## ワイヤ属性の編集
+![image](https://user-images.githubusercontent.com/80798265/157392002-bd9387c8-efcc-42f2-8eea-c2429dd03066.png)
+
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
