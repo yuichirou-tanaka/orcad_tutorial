@@ -12,7 +12,7 @@
     (ANNOTATE_Mode "0")
     (ANNOTATE_Action "3")
     (Annotate_Page_Order "0")
-    (ANNOTATE_Reset_References_to_1 "TRUE")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
     (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
     (ANNOTATE_IncludeNonPrimitive "FALSE")
@@ -95,45 +95,12 @@
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 -6 194 112 582"))
+        (Placement "44 0 1 -1 -1 -1 -1 -6 194 21 582"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 229 1508 27 536")
-        (Scroll "0 222")
-        (Zoom "200")
-        (Occurrence "/fulladdr"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_FULLADDR\D0310_FULLADDR.DSN")
-      (Schematic "FULLADDR")
-      (Page "FULLADDR"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 200 1479 77 586")
-        (Scroll "0 0")
-        (Zoom "200")
-        (Occurrence "/fulladdr/halfadd_A"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_FULLADDR\D0310_FULLADDR.DSN")
-      (Schematic "HALFADD_A")
-      (Page "HALFADD_A"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 198 1477 235 744")
-        (Scroll "0 30")
-        (Zoom "100")
-        (Occurrence "/fulladdr/halfadd_B"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_FULLADDR\D0310_FULLADDR.DSN")
-      (Schematic "HALFADD_B")
-      (Page "HALFADD_B"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 78 1357 78 587")
+        (Placement "44 0 1 -1 -1 -1 -1 104 1352 104 613")
         (Scroll "0 0")
         (Zoom "100")
         (Occurrence "/"))
