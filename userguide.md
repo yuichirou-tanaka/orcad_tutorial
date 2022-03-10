@@ -236,6 +236,9 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - https://www.youtube.com/watch?v=T8MSaKGXPOs
 編集 > ネットグループ
 - ![image](https://user-images.githubusercontent.com/80798265/157578692-3a5d4e7e-5d6a-4f77-b9d6-2acde41d2375.png)
+### Bus 設定メモ
+0..4, 5..9のBUS
+- ![image](https://user-images.githubusercontent.com/80798265/157579909-2286372b-1c84-44b8-9969-ab733d407082.png)
 
 
 # 使い方不明
@@ -245,4 +248,3 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - p.237 パーツの生成
 - p.296 ワイヤとバスのラベル付け301
 - p.308 パワー・ピン
-- p.337 ネットグループ
