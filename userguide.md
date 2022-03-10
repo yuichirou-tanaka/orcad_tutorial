@@ -212,10 +212,18 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 # ツール
 ## 飛び先表示
+- 飛び先番号表示
+- ![image](https://user-images.githubusercontent.com/80798265/157565451-eeebf9d9-c3e3-4f9d-a423-3afaf1bea7c9.png)
+
 - ページの番号が同じ場合に発生する
   - 再度アノテートする  
 - ![image](https://user-images.githubusercontent.com/80798265/157403790-22db0bac-68d5-43a3-93a5-84d838ef5686.png)
 - 削除したい場合は再度アノテートで＜飛び先表示を削除する＞を選択して［OK］
+
+
+
+## シート間参照を作成するためのガイドライン
+### 平面デザインでのシート間参照
 
 
 # 使い方不明
