@@ -1,0 +1,31 @@
+Date and Time : 03/10/22 14:39:35
+
+--------------------------------------------------
+Checking Schematic: Schematic3
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります GND  Power Connected to Input Port
+                    Schematic3, PAGE1  (2.30, 1.70) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります JTAG[0..3]  Input Port Connected to Power
+                    Schematic3, PAGE1  (1.30, 0.20) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です JTAG.PCIXJTAG3 
+                    Schematic3, PAGE1  (1.30, 0.20) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です JTAG.PCIXJTAG0 
+                    Schematic3, PAGE1  (2.30, 1.00) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です JTAG.PCIXJTAG1 
+                    Schematic3, PAGE1  (1.30, 0.20) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です JTAG.PCIXJTAG2 
+                    Schematic3, PAGE1  (1.30, 0.20) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

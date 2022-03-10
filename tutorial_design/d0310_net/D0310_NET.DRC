@@ -1,57 +1,77 @@
-Date and Time : 03/10/22 12:09:15
+Date and Time : 03/10/22 14:36:36
 
 --------------------------------------------------
 Checking Schematic: SCHEMATIC1
 --------------------------------------------------
 Checking Electrical Rules 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B7  Input Connected to Passive Port
                     SCHEMATIC1, PAGE1  (7.25, 2.30) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B9  Input Connected to Passive Port
                     SCHEMATIC1, PAGE1  (7.25, 2.30) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B5  Input Connected to Passive Port
                     SCHEMATIC1, PAGE1  (7.25, 2.30) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
-                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
-                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT 
-                    SCHEMATIC1, PAGE1  (8.90, 2.55) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
-                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
-                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
-                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B4  Input Connected to Passive Port
+                    SCHEMATIC1, PAGE1  (7.25, 2.10) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B2  Input Connected to Passive Port
+                    SCHEMATIC1, PAGE1  (7.25, 2.10) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B0  Input Connected to Passive Port
+                    SCHEMATIC1, PAGE1  (7.25, 2.10) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B1  Input Connected to Passive Port
+                    SCHEMATIC1, PAGE1  (7.25, 2.10) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B3  Input Connected to Passive Port
+                    SCHEMATIC1, PAGE1  (7.25, 2.10) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B8  Input Connected to Passive Port
                     SCHEMATIC1, PAGE1  (7.25, 2.30) 
-WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Input
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+ERROR(ORCAP-1628): ピンタイプが競合している可能性があります BOUT[0..9]  Passive Port Connected to Output
+                    SCHEMATIC1, PAGE1  (9.15, 2.55) 
+WARNING(ORCAP-1829): ピンタイプが競合している可能性があります BOUT[0..9],BOUT.B6  Input Connected to Passive Port
                     SCHEMATIC1, PAGE1  (7.25, 2.30) 
 
 Checking For Single Node Nets
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B7 
-                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B9 
-                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B5 
-                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B4 
-                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B2 
-                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT 
-                    SCHEMATIC1, PAGE1  (8.90, 2.55) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B7 
                     SCHEMATIC1, PAGE1  (4.15, 3.00) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B0 
-                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B1 
-                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B0 
                     SCHEMATIC1, PAGE1  (4.15, 2.30) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B6 
                     SCHEMATIC1, PAGE1  (4.15, 2.90) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B3 
-                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B2 
                     SCHEMATIC1, PAGE1  (4.15, 2.50) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B9 
@@ -64,12 +84,19 @@ WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B5
                     SCHEMATIC1, PAGE1  (4.15, 2.80) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B1 
                     SCHEMATIC1, PAGE1  (4.15, 2.40) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B8 
-                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
-WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B6 
-                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B4 
                     SCHEMATIC1, PAGE1  (4.15, 2.70) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です AGND 
+                    SCHEMATIC1, PAGE1  (3.65, 4.10) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC2
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
 WARNING(ORCAP-1600): ネットの接続が 2 つ未満です AGND 
                     SCHEMATIC1, PAGE1  (3.65, 4.10) 
 
