@@ -227,6 +227,10 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - 信号でつながっている先がわかる。  
 ![image](https://user-images.githubusercontent.com/80798265/157574288-4a8a4ef8-6e09-4139-b3d2-e3bca300cf92.png)
 
+# ネット
+## ネット全体を選択
+アクティブな回路図のみでGND線を全部選択したいときに便利
+![image](https://user-images.githubusercontent.com/80798265/157576270-a951cd15-6136-44c2-9ddc-1a747820379b.png)
 
 
 # 使い方不明
