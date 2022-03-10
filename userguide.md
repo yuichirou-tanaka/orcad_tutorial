@@ -224,6 +224,9 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 ## シート間参照を作成するためのガイドライン
 ### 平面デザインでのシート間参照
+- 信号でつながっている先がわかる。  
+![image](https://user-images.githubusercontent.com/80798265/157574288-4a8a4ef8-6e09-4139-b3d2-e3bca300cf92.png)
+
 
 
 # 使い方不明
