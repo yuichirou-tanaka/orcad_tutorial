@@ -1,0 +1,76 @@
+Date and Time : 03/10/22 12:09:15
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+                    SCHEMATIC1, PAGE1  (7.25, 2.30) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+                    SCHEMATIC1, PAGE1  (7.25, 2.30) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+                    SCHEMATIC1, PAGE1  (7.25, 2.30) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT 
+                    SCHEMATIC1, PAGE1  (8.90, 2.55) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[0..4] 
+                    SCHEMATIC1, PAGE1  (6.00, 2.50) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+                    SCHEMATIC1, PAGE1  (7.25, 2.30) 
+WARNING(ORCAP-1608): ネットには駆動電源がありません BOUT.B[5..9] 
+                    SCHEMATIC1, PAGE1  (7.25, 2.30) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B7 
+                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B9 
+                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B5 
+                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B4 
+                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B2 
+                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT 
+                    SCHEMATIC1, PAGE1  (8.90, 2.55) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B7 
+                    SCHEMATIC1, PAGE1  (4.15, 3.00) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B0 
+                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B1 
+                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B0 
+                    SCHEMATIC1, PAGE1  (4.15, 2.30) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B6 
+                    SCHEMATIC1, PAGE1  (4.15, 2.90) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B3 
+                    SCHEMATIC1, PAGE1  (6.00, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B2 
+                    SCHEMATIC1, PAGE1  (4.15, 2.50) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B9 
+                    SCHEMATIC1, PAGE1  (4.15, 3.20) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B8 
+                    SCHEMATIC1, PAGE1  (4.15, 3.10) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B3 
+                    SCHEMATIC1, PAGE1  (4.15, 2.60) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B5 
+                    SCHEMATIC1, PAGE1  (4.15, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B1 
+                    SCHEMATIC1, PAGE1  (4.15, 2.40) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B8 
+                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です BOUT.B6 
+                    SCHEMATIC1, PAGE1  (6.00, 2.80) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です B4 
+                    SCHEMATIC1, PAGE1  (4.15, 2.70) 
+WARNING(ORCAP-1600): ネットの接続が 2 つ未満です AGND 
+                    SCHEMATIC1, PAGE1  (3.65, 4.10) 
+
+Checking For Unconnected Bus Nets

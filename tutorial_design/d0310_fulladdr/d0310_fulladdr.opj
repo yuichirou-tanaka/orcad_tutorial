@@ -90,7 +90,8 @@
          "HALFADD_B")
       (Path "Outputs")
       (Select "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0310_fulladdr\d0310_fulladdr.dsn"))
+         "G:\OrCAD\tutorial\tutorial_design\d0310_fulladdr\d0310_fulladdr.dsn"
+         "SCHEMATIC1" "SIM"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
