@@ -234,6 +234,9 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 
 ## ネットグループ
 - https://www.youtube.com/watch?v=T8MSaKGXPOs
+編集 > ネットグループ
+- ![image](https://user-images.githubusercontent.com/80798265/157578692-3a5d4e7e-5d6a-4f77-b9d6-2acde41d2375.png)
+
 
 # 使い方不明
 - p49. IEEE シンボルの配置
