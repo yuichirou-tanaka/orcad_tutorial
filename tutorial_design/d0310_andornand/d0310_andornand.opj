@@ -61,10 +61,7 @@
       (Path "Design Resources"
          "G:\OrCAD\tutorial\tutorial_design\d0310_andornand\d0310_andornand.dsn"
          "SCHEMATIC1")
-      (Path "Outputs")
-      (Select "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0310_andornand\d0310_andornand.dsn"
-         "SCHEMATIC1"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -92,15 +89,4 @@
       (Path
          "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE3"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 225 1333 184 577")
-        (Scroll "0 108")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE2"))))
+      (Page "PAGE3"))))
