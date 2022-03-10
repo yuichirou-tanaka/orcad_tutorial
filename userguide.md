@@ -239,6 +239,9 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 ### Bus 設定メモ
 0..4, 5..9のBUS
 - ![image](https://user-images.githubusercontent.com/80798265/157579909-2286372b-1c84-44b8-9969-ab733d407082.png)
+## バスへのネットグループ
+## 名前なしのネットグループへのスカラ・メンバーの追加方法
+## ネットグループ・デザイン
 
 
 # 使い方不明
