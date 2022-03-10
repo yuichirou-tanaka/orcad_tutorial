@@ -12,4 +12,4 @@
 ## エラー画面
 - ![image](https://user-images.githubusercontent.com/80798265/157567957-b52d6e94-be56-496d-aaa4-d51188169009.png)
 ## 解決方法
-
+- ブロック配置をやり直す。解決策はIncrementに入れない。あと参照のSCHを入れない。同じ名前にしない。
