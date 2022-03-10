@@ -232,6 +232,8 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 アクティブな回路図のみでGND線を全部選択したいときに便利
 ![image](https://user-images.githubusercontent.com/80798265/157576270-a951cd15-6136-44c2-9ddc-1a747820379b.png)
 
+## ネットグループ
+- https://www.youtube.com/watch?v=T8MSaKGXPOs
 
 # 使い方不明
 - p49. IEEE シンボルの配置
@@ -240,3 +242,4 @@ https://www.youtube.com/watch?v=eQY-8SQZH3Q
 - p.237 パーツの生成
 - p.296 ワイヤとバスのラベル付け301
 - p.308 パワー・ピン
+- p.337 ネットグループ
