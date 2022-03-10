@@ -1,0 +1,5 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"Power","Passive","Kaisou1","2","kai","","235","95","5D","1^"
+"Net","Passive","Kaisou1","2","kai","","235","130","5D","1^"
+"Kaisou1_2","OffPage","Kaisou1","2","kai","","355","195","4D","1"
+"Kaisou1_2","OffPage","Kaisou2","3","kai","","365","125","4D","1"

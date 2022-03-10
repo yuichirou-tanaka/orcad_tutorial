@@ -46,52 +46,63 @@
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420"))
+    (DOCKING_POSITION "59420")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "4")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PORT\D0309_PORT.csv")
+    (IREFViewOutput "0"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\d0309_port.drc"
+      (Type "Report"))
+    (File ".\d0309_port.csv"
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (PORTNO-R
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (VCC
       (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (GND
-      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "G:\OrCAD\tutorial\tutorial_design\d0309_port\d0309_port.dsn" "kai")
+      (Path "Design Resources" ".\d0309_port.dsn")
+      (Path "Design Resources" ".\d0309_port.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\d0309_port.dsn" "ADDNANDOR")
+      (Path "Design Resources" ".\d0309_port.dsn" "kai")
       (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 649"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 202 1513 0 641")
-        (Scroll "236 98")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0309_PORT\D0309_PORT.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
+      (Tab 0)))
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
     (Folder "Model Libraries"

@@ -1,0 +1,106 @@
+(ExpressProject "d0310_andornand"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\d0310_andornand.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.csv")
+    (IREFViewOutput "0"))
+  (Folder "Outputs"
+    (File ".\d0310_andornand.csv"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (74AC11032
+      (FullPartName "74AC11032.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7407
+      (FullPartName "7407.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (7408
+      (FullPartName "7408.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "3"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (AND2
+      (FullPartName "AND2.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIG_PRIM.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0310_andornand\d0310_andornand.dsn")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0310_andornand\d0310_andornand.dsn"
+         "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0310_andornand\d0310_andornand.dsn"
+         "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 212 0 515"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 207 1585 3 512")
+        (Scroll "0 56")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 214 1513 336 710")
+        (Scroll "0 48")
+        (Zoom "124")
+        (Occurrence "/"))
+      (Path
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 225 1333 184 577")
+        (Scroll "0 108")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_ANDORNAND\D0310_ANDORNAND.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))))
