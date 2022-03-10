@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Design xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="G:\OrCAD\tutorial\tutorial_design\d0310_net\D0310_NET.xsd">
+
+  <Defn name="G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0310_NET\D0310_NET.DSN" objectType="SCHEMATIC" rootName="SCHEMATIC1" useExplicitDbId="1"/>
+
+  <CompInst>
+    <Ports>
+      <Port id="B[5..9]">
+        <Name>B[5..9]</Name>
+        <Type>output</Type>
+        <InstancePortName>B[5..9]</InstancePortName>
+      </Port>
+      <Port id="B[0..4]">
+        <Name>B[0..4]</Name>
+        <Type>output</Type>
+        <InstancePortName>B[0..4]</InstancePortName>
+      </Port>
+    </Ports>
+    <BusInterfaces>
+      <BusInterface>
+        <Name>BOUT[0..9]</Name>
+        <Definition>Path to Definition</Definition>
+        <PortRefs>
+          <PortRef ref="B[0..4]"/>
+          <PortRef ref="B[5..9]"/>
+        </PortRefs>
+      </BusInterface>
+    </BusInterfaces>
+  </CompInst>
+
+</Design>
