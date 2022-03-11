@@ -25,3 +25,7 @@ Settingsから開く
 
 # link
 - [電子部品検索エンジン](https://componentsearchengine.com/)
+
+# pin 
+## ピンの長さ
+- 
