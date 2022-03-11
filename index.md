@@ -1,11 +1,17 @@
+# Menu
+## OrCAD操作メモ
 - [parts_library](parts_library.md)
 - [userguide](userguide.md)
 - [userguide2](userguide2.md)
 - [web_sample](web_sample.md)
 - [error_warning_dialog](error_warning_dialog.md)
 - [pcb_gb_out](pcb_gb_out.md)
+## その他
+- [回路設計](回路設計.md)
 
-# free trial
+
+# 概要
+## free trial
 フリートライアルは30日間だけ使用できる
 https://www.nstec.com/how-to-update-orcad-software/#8
 
