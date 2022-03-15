@@ -29,3 +29,10 @@ https://www.nstec.com/how-to-update-orcad-software/#8
 - [パーツライブラリ](parts_library.md)
 
 #ファイル拡張子
+
+# ページ設定
+- https://oshiete.goo.ne.jp/qa/8005897.html
+- オプション > 回路図ページ属性
+  - ミリメートルにして、A3にする。
+- デザインテンプレート
+  - ミリメートルにして、A3にする。
