@@ -8,11 +8,11 @@ https://resources.orcad.com/orcad-capture-tutorials/orcad-capture-tutorial-10-ge
   - \t(Vendor)\t(Manufacturer)\t(Manufacturer Part Number)
 
 ```
-\Manufacturer_Name\Manufacturer_Part_Number\Vendor
+\tManufacturer_Name\tManufacturer_Part_Number\tVendor
 ```
 
 ```
-\t(Vendor)\t(Manufacturer_Name)\t(Manufacturer_Part_Number)
+\t{Vendor}\t{Manufacturer_Name}\t{Manufacturer_Part_Number}
 ```
 
 
