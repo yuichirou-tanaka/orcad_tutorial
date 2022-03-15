@@ -5,9 +5,11 @@
 - [userguide2](userguide2.md)
 - [web_sample](web_sample.md)
 - [error_warning_dialog](error_warning_dialog.md)
-- [pcb_gb_out](pcb_gb_out.md)
 ## その他
 - [回路設計](回路設計.md)
+## 出力関係
+- [BOM](BOM.md)
+- [pcb_gb_out](pcb_gb_out.md)
 
 
 # 概要
