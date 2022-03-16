@@ -7,10 +7,10 @@ address2
 a3
 addr4
 
-Bill Of Materials          March 15,2022      17:00:24	Page1
+Bill Of Materials          March 15,2022      17:06:29	Page1
 
-Item	Quantity	Reference	Part\Vendor\Manufacturer\Manufacturer Part Number
+Item	Quantity	Reference	Part	Manufacturer_Name	Manufacturer_Part_Number	Vendor
 ______________________________________________
 
-1	2	LED1,LED2	THG1111C-0005-TR	(Vendor)	(Manufacturer)	(Manufacturer Part Number)
-2	1	U1	NewPowerPin	(Vendor)	(Manufacturer)	(Manufacturer Part Number)
+1	2	LED1,LED2	THG1111C-0005-TR	Stanley Electric	THG1111C-0005-TR	DigiKey
+2	1	U1	NewPowerPin	Abc		DigiKey
