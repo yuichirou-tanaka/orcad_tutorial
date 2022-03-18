@@ -10,7 +10,7 @@
     (CompileFileAddedOrDeleted "x")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "2")
+    (ANNOTATE_Action "0")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -55,13 +55,29 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\d0315_sim_zener_diode.dsn")
-      (Path "Design Resources" ".\d0315_sim_zener_diode.dsn" "SCHEMATIC1")
-      (Select "Design Resources"))
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0318_annotation\d0315_sim_zener_diode.dsn")
+      (Path "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0318_annotation\d0315_sim_zener_diode.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "G:\OrCAD\tutorial\tutorial_design\d0318_annotation\d0315_sim_zener_diode.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 17 217 8 478"))
-      (Tab 0)))
+        (Placement "44 0 1 -1 -1 -8 -31 0 219 1 419"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 213 1225 2 743")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0318_ANNOTATION\D0315_SIM_ZENER_DIODE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
   (MPSSessionName "S10593"))
