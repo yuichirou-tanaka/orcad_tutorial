@@ -67,16 +67,5 @@
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 219 1 419"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 213 1225 2 743")
-        (Scroll "65 0")
-        (Zoom "114")
-        (Occurrence "/"))
-      (Path
-         "G:\ORCAD\TUTORIAL\TUTORIAL_DESIGN\D0318_ANNOTATION\D0315_SIM_ZENER_DIODE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Tab 0)))
   (MPSSessionName "S10593"))
